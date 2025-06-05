@@ -1,0 +1,13 @@
+COA
+ML
+OS
+Python
+Java
+C++
+Dsa
+Java Script
+C
+DBMS
+AI
+Machine Learning
+Computer Network
